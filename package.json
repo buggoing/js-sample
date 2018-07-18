@@ -1,0 +1,22 @@
+{
+  "name": "js-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buggoing/js-sample.git"
+  },
+  "author": "yy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buggoing/js-sample/issues"
+  },
+  "homepage": "https://github.com/buggoing/js-sample#readme",
+  "dependencies": {
+    "xlsx": "^0.13.2"
+  }
+}
