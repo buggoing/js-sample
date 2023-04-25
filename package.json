@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/buggoing/js-sample#readme",
   "dependencies": {
-    "xlsx": "^0.13.2"
+    "xlsx": "^0.18.5"
   }
 }
